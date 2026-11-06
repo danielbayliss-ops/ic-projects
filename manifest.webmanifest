@@ -1,0 +1,24 @@
+{
+  "name": "IC Projects \u2014 Lead Qualification",
+  "short_name": "IC Projects",
+  "description": "Employee lead qualification and preconstruction workflow for Impeccable Contractors.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#F79428",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
